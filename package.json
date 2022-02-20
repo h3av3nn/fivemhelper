@@ -1,0 +1,34 @@
+{
+  "name": "fivemhelper",
+  "version": "0.0.2",
+  "description": "API for getting FiveM server info & status.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hea31/fivemhelper.git"
+  },
+  "keywords": [
+    "fivem",
+    "discord",
+    "bot",
+    "fivem",
+    "bot",
+    "fivemjs",
+    "steam hex",
+    "steam",
+    "hex",
+    "fivem helper"
+  ],
+  "author": "heavenejs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hea31/fivemhelper/issues"
+  },
+  "homepage": "https://github.com/hea31/fivemhelper#readme",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
