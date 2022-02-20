@@ -6,7 +6,7 @@ A useful statistics and steam hex conversion module for Fivem servers
 ## Usage/Examples
 
 ```javascript
-const FivemJS = require('fivemjs')
+const FivemJS = require('fivemhelper')
 
 let FivemServer = new FivemJS.Server("IP:PORT")
 
