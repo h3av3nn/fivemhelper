@@ -1,6 +1,6 @@
 {
   "name": "fivemhelper",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "description": "A useful statistics and steam hex conversion module for Fivem servers",
   "main": "index.js",
   "scripts": {
