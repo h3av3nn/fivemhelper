@@ -1,5 +1,5 @@
 
-# FivemJS
+# Fivem Helper
 
 A useful statistics and steam hex conversion module for Fivem servers
 
